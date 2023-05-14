@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "Adumu Regular";
+    src: url(Adumu.ttf);
+}
+
+.logo {
+    font-family: "Adumu Regular";
+    letter-spacing: 3px;
+    font-size: 40px;
+}
+
+.text-outline {
+    -webkit-text-stroke: 1px #67595e;
+}
